@@ -49,17 +49,17 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 
 ## 🛠️ Tech Stack & Ferramentas
 
-<p align="left">
-  <img alt="Python" height="38" src="https://cdn.simpleicons.org/python" />
-  &nbsp;&nbsp;
-  <img alt="PostgreSQL" height="38" src="https://cdn.simpleicons.org/postgresql" />
-  &nbsp;&nbsp;
-  <img alt="Microsoft SQL Server" height="38" src="https://cdn.simpleicons.org/microsoftsqlserver" />
-  &nbsp;&nbsp;
-  <img alt="Power BI" height="38" src="https://cdn.simpleicons.org/powerbi" />
-  &nbsp;&nbsp;
-  <img alt="Microsoft Excel" height="38" src="https://cdn.simpleicons.org/microsoftexcel" />
-  &nbsp;&nbsp;
-  <img alt="Google BigQuery" height="38" src="https://cdn.simpleicons.org/googlebigquery" />
+<p align="left" style="white-space: nowrap;">
+  <img alt="Python" height="38" src="https://cdn.simpleicons.org/python/white" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="PostgreSQL" height="38" src="https://cdn.simpleicons.org/postgresql/white" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="SQL Server" height="38" src="https://cdn.simpleicons.org/microsoftsqlserver/white" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Power BI" height="38" src="https://cdn.simpleicons.org/powerbi/white" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Excel" height="38" src="https://cdn.simpleicons.org/microsoftexcel/white" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="BigQuery" height="38" src="https://cdn.simpleicons.org/googlebigquery/white" />
 </p>
 
