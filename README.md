@@ -50,17 +50,24 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 
 <h2>🛠️ Tech Stack & Ferramentas</h2>
 
+<style>
+  .ico {
+    height: 36px;
+    vertical-align: middle;
+    /* “contorno” branco (simulado) */
+    filter:
+      drop-shadow(0 0 1px rgba(255,255,255,.95))
+      drop-shadow(0 0 2px rgba(255,255,255,.55));
+    margin-right: 14px;
+  }
+</style>
+
 <p align="left">
-  <img alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="SQL Server" height="36" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-  &nbsp;&nbsp;
-  <img alt="Power BI" height="36" src="https://www.svgrepo.com/show/354012/powerbi.svg" />
-  &nbsp;&nbsp;
-  <img alt="Excel" height="36" src="https://www.svgrepo.com/show/373589/excel.svg" />
-  &nbsp;&nbsp;
-  <img alt="GitHub" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img class="ico" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img class="ico" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img class="ico" alt="SQL Server" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+  <img class="ico" alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img class="ico" alt="Excel" src="https://www.svgrepo.com/show/373589/excel.svg" />
+  <img class="ico" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
