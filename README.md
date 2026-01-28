@@ -47,19 +47,25 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 
 
 
-## 🛠️ Tech Stack & Ferramentas
 
-<p align="left" style="white-space: nowrap;">
-  <img alt="Python" height="38" src="https://cdn.simpleicons.org/python/white" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="PostgreSQL" height="38" src="https://cdn.simpleicons.org/postgresql/white" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="SQL Server" height="38" src="https://cdn.simpleicons.org/microsoftsqlserver/white" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="Power BI" height="38" src="https://cdn.simpleicons.org/powerbi/white" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="Excel" height="38" src="https://cdn.simpleicons.org/microsoftexcel/white" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="BigQuery" height="38" src="https://cdn.simpleicons.org/googlebigquery/white" />
+<h2>🛠️ Tech Stack & Ferramentas</h2>
+
+<p align="left">
+  <!-- DEVICON (estável) -->
+  <img alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  &nbsp;&nbsp;
+
+  <!-- ESTES 3 QUEBRAM NO DEV.TO -> USAR SIMPLEICONS -->
+  <img alt="Microsoft SQL Server" height="36" src="https://cdn.simpleicons.org/microsoftsqlserver/white" />
+  &nbsp;&nbsp;
+  <img alt="Power BI" height="36" src="https://cdn.simpleicons.org/powerbi/white" />
+  &nbsp;&nbsp;
+  <img alt="Microsoft Excel" height="36" src="https://cdn.simpleicons.org/microsoftexcel/white" />
+  &nbsp;&nbsp;
+
+  <!-- EXTRA (se quiser) -->
+  <img alt="Google BigQuery" height="36" src="https://cdn.simpleicons.org/googlebigquery/white" />
 </p>
 
