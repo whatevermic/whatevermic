@@ -46,19 +46,25 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
-<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
-  <!-- Python -->
-  <img alt="Python" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-  <!-- PostgreSQL -->
-  <img alt="PostgreSQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+  <img alt="Python" height="34"
+       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-  <!-- Microsoft SQL Server -->
-  <img alt="Microsoft SQL Server" height="34" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+  <img alt="PostgreSQL" height="34"
+       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-  <!-- Power BI -->
-  <img alt="Power BI" height="34" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+  <img alt="Microsoft SQL Server" height="34"
+       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.png" />
 
-  <!-- Google BigQuery (SQL do Google) -->
-  <img alt="Google BigQuery" height="34" src="https://cdn.simpleicons.org/googlebigquery/669DF6" />
+  <img alt="Power BI" height="34"
+       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.png" />
+
+  <img alt="Google BigQuery" height="34"
+       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebigquery.png" />
 </div>
