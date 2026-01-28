@@ -45,30 +45,16 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+
 
 ## 🛠️ Tech Stack & Ferramentas
-<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
 
-  <!-- Python (Devicon) -->
-  <img alt="Python" height="34"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-  <!-- PostgreSQL (Devicon) -->
-  <img alt="PostgreSQL" height="34"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-  <!-- Microsoft SQL Server (PNG - Simple Icons via raw github) -->
-  <img alt="Microsoft SQL Server" height="34"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.png" />
-
-  <!-- Power BI (PNG - Simple Icons via raw github) -->
-  <img alt="Power BI" height="34"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.png" />
-
-  <!-- Google BigQuery (PNG - Simple Icons via raw github) -->
-  <img alt="Google BigQuery" height="34"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebigquery.png" />
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-000000?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+</p>
 
