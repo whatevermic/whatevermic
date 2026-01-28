@@ -51,21 +51,18 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 <h2>🛠️ Tech Stack & Ferramentas</h2>
 
 <p align="left">
-  <!-- DEVICON (estável) -->
-  <img alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Python" height="36" src="https://cdn.simpleicons.org/python/white" />
   &nbsp;&nbsp;
-  <img alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="PostgreSQL" height="36" src="https://cdn.simpleicons.org/postgresql/white" />
   &nbsp;&nbsp;
-
-  <!-- ESTES 3 QUEBRAM NO DEV.TO -> USAR SIMPLEICONS -->
   <img alt="Microsoft SQL Server" height="36" src="https://cdn.simpleicons.org/microsoftsqlserver/white" />
   &nbsp;&nbsp;
   <img alt="Power BI" height="36" src="https://cdn.simpleicons.org/powerbi/white" />
   &nbsp;&nbsp;
   <img alt="Microsoft Excel" height="36" src="https://cdn.simpleicons.org/microsoftexcel/white" />
   &nbsp;&nbsp;
-
-  <!-- EXTRA (se quiser) -->
-  <img alt="Google BigQuery" height="36" src="https://cdn.simpleicons.org/googlebigquery/white" />
+  <img alt="Google Colab" height="36" src="https://cdn.simpleicons.org/googlecolab/white" />
+  &nbsp;&nbsp;
+  <img alt="GitHub" height="36" src="https://cdn.simpleicons.org/github/white" />
 </p>
 
