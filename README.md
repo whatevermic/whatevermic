@@ -47,24 +47,28 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 
 ## 🛠️ Tech Stack & Ferramentas
 
+## 🛠️ Tech Stack & Ferramentas
 <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+
+  <!-- Python (Devicon) -->
   <img alt="Python" height="34"
-       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
+  <!-- PostgreSQL (Devicon) -->
   <img alt="PostgreSQL" height="34"
-       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
+  <!-- Microsoft SQL Server (PNG - Simple Icons via raw github) -->
   <img alt="Microsoft SQL Server" height="34"
-       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
        src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.png" />
 
+  <!-- Power BI (PNG - Simple Icons via raw github) -->
   <img alt="Power BI" height="34"
-       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
        src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.png" />
 
+  <!-- Google BigQuery (PNG - Simple Icons via raw github) -->
   <img alt="Google BigQuery" height="34"
-       style="background:#111; padding:6px; border-radius:10px; border:1px solid #2a2a2a;"
        src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebigquery.png" />
+
 </div>
+
