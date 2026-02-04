@@ -32,15 +32,15 @@ Estou construindo projetos de portfólio com cenários realistas para demonstrar
 
 ### 🚕 Dashboard Operacional (Power BI + SQL)
 Diagnóstico de performance por **empresa/região** e análise dos principais **motivos de recusa**, com insights e ações recomendadas.  
-➡️ Repositório: https://github.com/whatevermic/motorista-app
+➡️ Repositório: https://github.com/michaelgsandrade/motorista-app
 
 ### 📊 (Em produção)
-➡️ https://github.com/whatevermic/...
+➡️ https://github.com/michaelgsandrade/...
 
 ---
 
 ## Contato
-- GitHub: https://github.com/whatevermic  
+- GitHub: https://github.com/michaelgsandrade 
 - LinkedIn: https://www.linkedin.com/in/michaelgsandrade/
 
 ---
