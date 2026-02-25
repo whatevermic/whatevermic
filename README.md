@@ -1,13 +1,6 @@
-<div style="display:flex; align-items:center; gap:18px; margin-bottom: 14px;">
-  <img
-    src="https://avatars.githubusercontent.com/u/118789111?v=4"
-    width="160"
-    height="160"
-    style="border-radius:50%; border:2px solid #333;"
-    alt="Michael Andrade Avatar"
-  />
+
   <div>
-    <h1 style="margin:0;">Michael Andrade 👋</h1>
+    <h1 style="margin:0;">Michael Andrade </h1>
     <p style="margin:6px 0 0 0;"><b>Analista de Dados | SQL • Power BI • Excel • SQL Server (SSMS) • PostgreSQL</b></p>
     <p style="margin:6px 0 0 0;">📍 São Paulo - SP | 🔗 LinkedIn: <a href="https://www.linkedin.com/in/michaelgsandrade/">michaelgsandrade</a></p>
   </div>
