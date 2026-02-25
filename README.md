@@ -23,9 +23,10 @@ Estou construindo projetos de portfólio com cenários realistas para demonstrar
 
 ## Projetos em destaque
 
-### 🚕 Dashboard Operacional (Power BI + SQL)
-Diagnóstico de performance por **empresa/região** e análise dos principais **motivos de recusa**, com insights e ações recomendadas.  
-➡️ Repositório: https://github.com/michaelgsandrade/motorista-app
+### Dashboard de Vendas - TechHub (Power BI)
+Desenvolvi este painel para transformar a gestão de uma operação de eletrônicos. O foco foi sair das planilhas estáticas e criar uma ferramenta onde o gestor, com poucos cliques, consegue identificar picos de faturamento, os produtos mais rentáveis e o desempenho individual de cada vendedor através de filtros cruzados e cálculos em DAX. 
+[Vendas TechHub PowerBI](https://github.com/michaelgsandrade/vendas-techhub-powerbi/blob/main/README.md)<br>
+➡️ Repositório: (https://github.com/michaelgsandrade/vendas-techhub-powerbi/blob/main/README.md)
 
 ### 📊 (Em produção)
 ➡️ https://github.com/michaelgsandrade/...
