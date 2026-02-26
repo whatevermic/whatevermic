@@ -1,7 +1,7 @@
 
   <div>
     <h1 style="margin:0;">Michael Andrade </h1>
-    <p style="margin:6px 0 0 0;"><b>Analista de Dados | SQL • Power BI • Excel • SQL Server (SSMS) • PostgreSQL</b></p>
+    <p style="margin:6px 0 0 0;"><b>Analista de Dados & Business Intelligence | SQL • Power BI • Excel • Python • </b></p>
     <p style="margin:6px 0 0 0;"> 🔗 LinkedIn: <a href="https://www.linkedin.com/in/michaelgsandrade/">michaelgsandrade</a></p>
   </div>
 </div>
@@ -21,14 +21,20 @@ Estou construindo projetos de portfólio com cenários realistas para demonstrar
 
 ---
 
+
+
+
 ## Projetos em destaque
+
+### Fluxo de caixa - PowerBI (Power BI)
+Desenvolvi este painel para centralizar o controle financeiro e monitorar a saúde operacional de uma operação multiregional. O foco foi automatizar a análise de liquidez e margem de lucro através de cálculos em DAX, permitindo uma visão granular dos custos por setor e unidade geográfica.
+[Fluxo de caixa - PowerBI](https://github.com/michaelgsandrade/fluxo_de_caixa_pbi)<br>
+
 
 ### Dashboard de Vendas - TechHub (Power BI)
 Desenvolvi este painel para transformar a gestão de uma operação de eletrônicos. O foco foi sair das planilhas estáticas e criar uma ferramenta onde o gestor, com poucos cliques, consegue identificar picos de faturamento, os produtos mais rentáveis e o desempenho individual de cada vendedor através de filtros cruzados e cálculos em DAX. 
 [Vendas TechHub PowerBI](https://github.com/michaelgsandrade/vendas-techhub-powerbi/blob/main/README.md)<br>
 
-### 📊 (Em produção)
-➡️ https://github.com/michaelgsandrade/...
 
 ---
 
