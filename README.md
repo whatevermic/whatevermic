@@ -28,12 +28,12 @@ Estou construindo projetos de portfólio com cenários realistas para demonstrar
 
 ### Fluxo de caixa - PowerBI (Power BI)
 Desenvolvi este painel para centralizar o controle financeiro e monitorar a saúde operacional de uma operação multiregional. O foco foi automatizar a análise de liquidez e margem de lucro através de cálculos em DAX, permitindo uma visão granular dos custos por setor e unidade geográfica.
-[Fluxo de caixa - PowerBI](https://github.com/michaelgsandrade/fluxo_de_caixa_pbi)<br>
+<br>Veja o  projeto clicando aqui: [Fluxo de caixa - PowerBI](https://github.com/michaelgsandrade/fluxo_de_caixa_pbi)
 
 
 ### Dashboard de Vendas - TechHub (Power BI)
 Desenvolvi este painel para transformar a gestão de uma operação de eletrônicos. O foco foi sair das planilhas estáticas e criar uma ferramenta onde o gestor, com poucos cliques, consegue identificar picos de faturamento, os produtos mais rentáveis e o desempenho individual de cada vendedor através de filtros cruzados e cálculos em DAX. 
-[Vendas TechHub PowerBI](https://github.com/michaelgsandrade/vendas-techhub-powerbi/blob/main/README.md)<br>
+<br>Veja o  projeto clicando aqui: [Vendas TechHub - PowerBI](https://github.com/michaelgsandrade/vendas-techhub-powerbi/blob/main/README.md)<br>
 
 
 ---
